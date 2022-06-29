@@ -37,3 +37,7 @@
 -->
 <h3> Catch up with me on my social handle</h3>
 
+---
+
+### :fire: My Stats :
+
