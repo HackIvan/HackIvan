@@ -1,4 +1,4 @@
----
+
 
 
 <!-- 
@@ -12,6 +12,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  --
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,7 +24,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=hackivan&style=flat-square&color=blue" alt=""/>
  
 </div>
 <div align="center">
@@ -36,9 +37,7 @@
 
 
 
-- 🔭 I’m currently working on SoFX a Crypto currency exchange platform in Sierra Leone that will enable the crypto community in Sierra Leone to be able to by and sell crypto using Mobile money likes of Orange Money and AfriMoney. Also they well be able to complete transactions uing bank transfer
-
- Sit tight and wait for it, cause awesomeness is here...
+- 🔭 I’m currently working on SoFX a Crypto currency exchange platform in Sierra Leone that will enable the crypto community in Sierra Leone to be able to by and sell crypto using Mobile money likes of Orange Money and AfriMoney. Also they well be able to complete transactions uing bank transfer. Sit tight and wait for it, cause awesomeness is here...
 
 
 
