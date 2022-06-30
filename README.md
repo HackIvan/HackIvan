@@ -1,32 +1,11 @@
 ---
 
----
 
-### Hi there 👋 I am Ibrahim Ivan
-
-**HackIvan/HackIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-- 🔭 I’m currently working on SoFX a Crypto currency exchange platform in Sierra Leone that will enable the crypto community in Sierra Leone to be able to by and sell crypto using Mobile money likes of Orange Money and AfriMoney. Also they well be able to complete transactions uing bank transfer
-
- Sit tight and wait for it, cause awesomeness is here...
-
-
-
-- 🌱 I’m currently learning Blockchain 001 to Mastery, An ALX Software Engineering Student, Security and Risk Mitigation. ...
-
-
-
-- 👯 I’m looking to collaborate on any projects that has to do with blockchain, ecommerce, entertainment etc...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+**HackIvan/HackIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-<h3> Catch up with me on my social handle</h3>
+
+
 
 
 
@@ -53,6 +32,30 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+### Hi there 👋 I am Ibrahim Ivan
+
+---
+
+
+
+- 🔭 I’m currently working on SoFX a Crypto currency exchange platform in Sierra Leone that will enable the crypto community in Sierra Leone to be able to by and sell crypto using Mobile money likes of Orange Money and AfriMoney. Also they well be able to complete transactions uing bank transfer
+
+ Sit tight and wait for it, cause awesomeness is here...
+
+
+
+- 🌱 I’m currently learning Blockchain 001 to Mastery, An ALX Software Engineering Student, Security and Risk Mitigation. ...
+
+
+
+- 👯 I’m looking to collaborate on any projects that has to do with blockchain, ecommerce, entertainment etc...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 
 ### :woman_technologist: About Me :
