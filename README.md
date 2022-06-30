@@ -4,16 +4,9 @@
 
 ### Hi there 👋 I am Ibrahim Ivan
 
-<!--
 **HackIvan/HackIvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<h1>
-  hey pal!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
----
 
 
 - 🔭 I’m currently working on SoFX a Crypto currency exchange platform in Sierra Leone that will enable the crypto community in Sierra Leone to be able to by and sell crypto using Mobile money likes of Orange Money and AfriMoney. Also they well be able to complete transactions uing bank transfer
